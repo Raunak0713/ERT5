@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ERT5/static/css/main.4d81aa53.css",
+    "main.js": "/ERT5/static/js/main.c2ecd3f8.js",
+    "static/js/787.e8a38765.chunk.js": "/ERT5/static/js/787.e8a38765.chunk.js",
+    "index.html": "/ERT5/index.html",
+    "main.4d81aa53.css.map": "/ERT5/static/css/main.4d81aa53.css.map",
+    "main.c2ecd3f8.js.map": "/ERT5/static/js/main.c2ecd3f8.js.map",
+    "787.e8a38765.chunk.js.map": "/ERT5/static/js/787.e8a38765.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d81aa53.css",
+    "static/js/main.c2ecd3f8.js"
+  ]
+}
